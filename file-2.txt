@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello i am ravindra
 here i am doing merge conflict
+=======
+hello i am ravindra.i am doing
+merge_conflict
+>>>>>>> feature_branch
